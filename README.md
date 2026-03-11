@@ -1,3 +1,15 @@
+# Customized version of OpenGLFFT
+
+> YXHXianYu
+
+## 新增
+
+* 一键编译
+  * 把所有依赖都引入了，现在直接用rider/vs打开sln即可编译，不需要手动安装依赖
+* FFT卷积
+  * 原版项目只提供了将一个图像FFT后，得到频谱、实部、虚部的功能
+  * 这个Custom版本，新增了混合两个图像的功能（即FFT卷积）
+
 # OpenGLFFT
 
 ![showcase](showcase.png)
@@ -40,7 +52,7 @@ All of these defines are in [FFT2D.comp](https://github.com/bane9/OpenGLFFT/blob
 Dependencies
 ------------
 
-- [GLFW](https://www.glfw.org/)
+- [GLFW](https://www.glfw.org/) (included)
 - [GLAD](https://glad.dav1d.de/) (included)
 - [stbi_image](https://github.com/nothings/stb/blob/master/stb_image.h) (included)
 - [stbi_image_write](https://github.com/nothings/stb/blob/master/stb_image_write.h) (included)
