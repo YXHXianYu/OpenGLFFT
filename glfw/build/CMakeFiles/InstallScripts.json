@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/OpenGLFFT/glfw/build/cmake_install.cmake",
+		"D:/OpenGLFFT/glfw/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,7 @@
+D:/OpenGLFFT/glfw/build/CMakeFiles/uninstall.dir
+D:/OpenGLFFT/glfw/build/CMakeFiles/INSTALL.dir
+D:/OpenGLFFT/glfw/build/CMakeFiles/ALL_BUILD.dir
+D:/OpenGLFFT/glfw/build/CMakeFiles/ZERO_CHECK.dir
+D:/OpenGLFFT/glfw/build/src/CMakeFiles/glfw.dir
+D:/OpenGLFFT/glfw/build/src/CMakeFiles/update_mappings.dir
+D:/OpenGLFFT/glfw/build/src/CMakeFiles/INSTALL.dir

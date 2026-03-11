@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\OpenGLFFT\glfw\build\CMakeFiles\e766939ee998a32d2b2fdaae920feba2\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\OpenGLFFT\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\OpenGLFFT\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="D:\OpenGLFFT\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="D:\OpenGLFFT\glfw\build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{73FD2BFE-E342-30FD-94DB-B689E2E3CB57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D6BA086B-11D5-3271-99D7-A051CF86F62D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
